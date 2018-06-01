@@ -12,7 +12,17 @@ body {
 }
 /* slider */
 .carousel-height{
-    height: 75vh;
+    height: 70vh;
+}
+@media screen and (max-width: 700px){
+    .carousel-height{
+        height: 30vh;
+    } 
+}
+@media screen and (min-width: 701px){
+    .carousel-height{
+        height: 35vh;
+    }
 }
 /* slider */
 
