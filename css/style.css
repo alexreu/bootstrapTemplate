@@ -7,6 +7,9 @@ body {
 .bg-grey-dark{
     background-color: #777777;
 }
+.md-font-size {
+    font-size : 20px;
+}
 /* slider */
 .carousel-height{
     height: 75vh;
